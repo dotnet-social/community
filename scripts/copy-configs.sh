@@ -13,6 +13,8 @@
 # MASTO_BACKUP="/datadrive/backup"                  # backup directory is /datadrive/backup
 # MASTO_GITHUB="/home/mastodon/github"              # local clone location of the  https://github.com/dotnet-social/server.git repository
 
+mkdir -p ${MASTO_GITHUB}/config
+
 # backup nginx config
 cp -av /etc/nginx/sites-available/mastodon ${MASTO_GITHUB}/config/nginx.conf
 
