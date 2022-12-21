@@ -1,23 +1,29 @@
 # The dotnet.social community
 
-This repository contains everything technical and organizational about the dotnet.social community.
+This repository contains everything technical and organizational about the **dotnet.social community**.
 
-The goal is to share as most details as possible in public with other people to gather ideas, help and suggestions about the management of this mastodon instance.
+The goal is to share as most details as possible **in public** with other people to gather ideas, help and suggestions about the management of this mastodon instance.
 
-This community is small, only maintained for now by one person (@tbolon), but I found the idea of having a community on a @dotnet.social domain interesting.
-Not because people should only speak about dotnet here, but as a statement that dotnet is part of our work-life and that we are proud of that.
-It does not suggest that we are narrow-minded or not interested in other technologies, in fact it's the complete opposite: we are curious, open-minded, and interested in our day-to-day domain: coding and technologies.
+This community is small, only maintained for now by one person (@tbolon), but I found the idea of having a community on a @dotnet.social domain interesting, so I decided to take the bait.
+Not because people should only speak about .NET here, but as a statement that .NET is part of our work-life and that we are proud of that.
+It does not suggest that we should be narrow-minded or not interested in other technologies. In fact, I expect the complete opposite: to be curious, open-minded, and interested in all talks about our day-to-day domain: coding and technologies.
 
 ## Ask for help
 
-We are (I am) looking for volunteers to help writing rules, discuss content, proof-reading, manage rules and bring more content.
-Even (and firstly) rewrite this readme to correct grammar mistakes!
+I encourage you to participate in this repository if you have any resources, knowledge, energy or just time and motivation to help me and this community.
 
-We encourage you to participate in this repository if you have any resources, knowledge, energy or just time and motivation to help this community.
-
-* Create issues if you have detected problems or want to suggest something
+* Create issues if you have detected problems
 * Use discussions to ask questions, suggest ideas
 * Use mastodon, mention me at styx31@dotnet.social
+* Use discord to discuss in a less and more realtime way
+
+Yes, I have also created a discord server, to discuss in a less formal and more realtime way: https://discord.gg/Cn3HHqMyWK
+
+## Content
+
+We are (I am) looking for volunteers to help writing rules, discuss content, proof-reading, manage rules and bring more content to this repository and this organization.
+
+Even (and firstly) rewrite this readme to correct all grammar mistakes!
 
 ## Technical details
 
@@ -48,6 +54,10 @@ This way, everyone can look at the configuration, scripts, and attest how things
 
 Data on the server are copied on the azure blob storage account each night, using the `/scripts/backup.sh` script.
 This script upload backup data each day, keeping last 7 days by using the current day of week as a part of the remote url.
+
+If any maintenance is scheduled, it will be announced on the mastodon instance, on my mastodon account and an issue will be created here.
+
+I have also setup a simple status page here: https://stats.uptimerobot.com/0PKV1ukWWx
 
 ## Mastodon instance
 
