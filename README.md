@@ -19,7 +19,14 @@ The resource group also contains a storage account (RA-GRS) used to backup all c
 ## Scripts and maintenance
 
 This repository is also cloned on the server itself and contains scripts which are used to maintain and administrate the server.
-
 This way, everyone can look at the configuration, scripts, and attest how things are done and make any suggestion to help make this server more robust.
 
-You can browse the `/scripts` folder to find all scripts.
+* the `/scripts` folder to find all scripts used on the server
+* the `/configs` folder contains all configuration files copied from the server when they are modified
+
+Data on the server are copied on the azure blob storage account each night, using the `/scripts/backup.sh` script.
+This script upload backup data each day, keeping last 7 days by using the current day of week as a part of the remote url.
+
+## Mastodon instance
+
+TODO : explain how mastodon was instaled and the differences applied, more precisely regarding the location of the public files on `/datadrive/`
