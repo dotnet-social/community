@@ -55,7 +55,7 @@ This script upload backup data each day, keeping last 7 days by using the curren
 
 If any maintenance is scheduled, it will be announced on the mastodon instance, on my mastodon account and an issue will be created here.
 
-I have also setup a simple status page here: https://stats.uptimerobot.com/0PKV1ukWWx
+I also have setup a simple status page here: https://stats.uptimerobot.com/0PKV1ukWWx
 
 ## Mastodon instance
 
