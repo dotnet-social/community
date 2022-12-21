@@ -25,10 +25,12 @@ Even (and firstly) rewrite this readme to correct all grammar mistakes!
 
 ## Technical details
 
-The current dotnet.social server is a virtual machine hosted on Microsoft Azure, and located in West Europe.
-It's a Standard D2s v3 VM with 2 vcpus and 8 GiB memory, running on Ubuntu 20.04.
+The current dotnet.social server is a virtual machine hosted on **Microsoft Azure**, and located in West Europe.
+
+It's a **Standard D2s v3 VM** with 2 vcpus and 8 GiB memory, running on Ubuntu 20.04.
 The OS disk is a Premium SSL LRS of 30GiB. An additional data disk of 128GiB premium SSD LRS is attached to the virtual machine to store medias.
-The resource group also contains a storage account (RA-GRS) used to backup all critical resources of the server daily.
+
+The resource group also contains a **storage account** (RA-GRS) used to backup all critical resources of the server daily.
 
 ## Financial details
 
