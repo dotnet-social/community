@@ -42,7 +42,7 @@ So, as of now, this community does not need external financial help.
 
 But, as this instance grows, we will certainly face more charges and will perhaps require participation (donation?).
 
-Also, as a community, we are also interested in free resources and sponsorship if it makes sense: for example, an Azure sponsorship, monitoring tools free credits, or anything that could help this community.
+Also, as a community, we are also interested in free resources and sponsorship if it makes sense: for example, an Azure sponsorship, monitoring tools free credits, or anything that could help this community. **If you are members of this community and can help by providing resources, feel free to do so.**
 
 ## Scripts and maintenance
 
