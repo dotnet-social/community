@@ -32,6 +32,8 @@ The OS disk is a Premium SSL LRS of 30GiB. An additional data disk of 128GiB pre
 
 The resource group also contains a **storage account** (RA-GRS) used to backup all critical resources of the server daily.
 
+I am looking for any help or advice, more particularly if you have experience in linux and/or Azure VM and services (CDN, etc.).
+
 ## Financial details
 
 All these resources are billed under a single Azure subscription, a Visual Studio Enterprise Azure Credits Benefits that I (@tbolon) dedicate to this server.
