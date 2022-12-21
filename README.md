@@ -15,9 +15,7 @@ I encourage you to participate in this repository if you have any resources, kno
 * Create issues if you have detected problems
 * Use discussions to ask questions, suggest ideas
 * Use mastodon, mention me at styx31@dotnet.social
-* Use discord to discuss in a less and more realtime way
-
-Yes, I have also created a discord server, to discuss in a less formal and more realtime way: https://discord.gg/Cn3HHqMyWK
+* Use discord to discuss in a less and more real-time way: https://discord.gg/Cn3HHqMyWK
 
 ## Content
 
@@ -61,4 +59,4 @@ I have also setup a simple status page here: https://stats.uptimerobot.com/0PKV1
 
 ## Mastodon instance
 
-TODO: explain how mastodon was instaled and the differences applied, more precisely regarding the location of the public files on `/datadrive/`
+TODO: explain how mastodon was installed and the differences applied, more precisely regarding the location of the public files on `/datadrive/`
