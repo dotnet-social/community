@@ -12,8 +12,7 @@ It does not suggest that we should be narrow-minded or not interested in other t
 
 I encourage you to participate in this repository if you have any resources, knowledge, energy or just time and motivation to help me and this community.
 
-* Create [issues](https://github.com/dotnet-social/community/issues) if you have detected problems
-* Use [discussions](https://github.com/dotnet-social/community/discussions) to ask questions, suggest ideas
+* Create [issues](https://github.com/dotnet-social/community/issues) if you have detected problems, want to ask questions or suggest ideas
 * Use [mastodon](https://dotnet.social/home), mention me at [styx31@dotnet.social](https://dotnet.social/@styx31)
 * Use discord to discuss in a less formal and more real-time way: https://discord.gg/Cn3HHqMyWK
 
