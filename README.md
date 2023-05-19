@@ -4,7 +4,7 @@ This repository contains everything technical and organizational about the **dot
 
 The goal is to share as most details as possible **in public** with other people to gather ideas, help and suggestions about the management of this mastodon instance.
 
-This community is small, only maintained for now by one person (@tbolon), but I found the idea of having a community on a @dotnet.social domain interesting, so I decided to take the bait.
+This community is small, only maintained for now a few persons (@tbolon and @hmhackmaster), but I found the idea of having a community on a @dotnet.social domain interesting, so I decided to take the bait.
 Not because people should only speak about .NET here, but as a statement that .NET is part of our work-life and that we are proud of that.
 It does not suggest that we should be narrow-minded or not interested in other technologies. In fact, I expect the complete opposite: to be curious, open-minded, and interested in all talks about our day-to-day domain: coding and technologies.
 
@@ -13,12 +13,12 @@ It does not suggest that we should be narrow-minded or not interested in other t
 I encourage you to participate in this repository if you have any resources, knowledge, energy or just time and motivation to help me and this community.
 
 * Create [issues](https://github.com/dotnet-social/community/issues) if you have detected problems, want to ask questions or suggest ideas
-* Use [mastodon](https://dotnet.social/home), mention me at [styx31@dotnet.social](https://dotnet.social/@styx31)
+* Use [mastodon](https://dotnet.social/home), mention me at [styx31@dotnet.social](https://dotnet.social/@styx31) or [hmhackmaster@boldcity.social](https://boldcity.social/@HMHackmaster).
 * Use discord to discuss in a less formal and more real-time way: https://discord.gg/Cn3HHqMyWK
 
 ## Content
 
-We are (I am) looking for volunteers to help writing rules, discuss content, proof-reading, manage rules and bring more content to this repository and this organization.
+We are looking for volunteers to help writing rules, discuss content, proof-reading, manage rules and bring more content to this repository and this organization.
 
 Even (and firstly) rewrite this readme to correct all grammar mistakes!
 
