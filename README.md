@@ -45,15 +45,9 @@ But, as this instance grows, we will certainly face more charges and will perhap
 
 Also, as a community, we are also interested in free resources and sponsorship if it makes sense: for example, an Azure sponsorship, monitoring tools free credits, or anything that could help this community. **If you are members of this community and can help by providing resources, feel free to contact us.**
 
-## Scripts and maintenance
+## Maintenance
 
-This repository is also cloned on the server itself and contains scripts which are used to maintain and administrate the server.
-This way, everyone can look at the configuration, scripts, and attest how things are done and make any suggestion to help make this server more robust.
-
-* the `/scripts` folder to find all scripts used on the server
-* the `/configs` folder contains all configuration files copied from the server when they are modified
-
-Data on the server are copied on the azure blob storage account each night, using the `/scripts/backup.sh` script.
+Data on the server are copied on the azure blob storage account each night.
 This script upload backup data each day, keeping last 7 days by using the current day of week as a part of the remote url.
 
 If any maintenance is scheduled, it will be announced on the mastodon instance, on my mastodon account and an issue will be created here in case something goes wrong and I need to post updates. I will also be reachable on discord.
