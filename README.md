@@ -4,23 +4,20 @@ This repository contains everything technical and organizational about the **dot
 
 The goal is to share as most details as possible **in public** with other people to gather ideas, help and suggestions about the management of this mastodon instance.
 
-This community is small, only maintained for now a few persons: [@tbolon](https://github.com/tbolon) as main admin and [@hmhackmaster](https://github.com/hmhackmaster) as co-admin, but I found the idea of having a community on a @dotnet.social domain interesting, so I decided to take the bait.
+This community maintained for now by a few persons: [@tbolon](https://github.com/tbolon) as main admin and [@hmhackmaster](https://github.com/hmhackmaster) as co-admin
+
+I (@tbolon) found the idea of having a community on a @dotnet.social domain interesting, so I decided to take the bait.
 Not because people should only speak about .NET here, but as a statement that .NET is part of our work-life and that we are proud of that.
 It does not suggest that we should be narrow-minded or not interested in other technologies. In fact, I expect the complete opposite: to be curious, open-minded, and interested in all talks about our day-to-day domain: coding and technologies.
 
 ## Ask for help
 
-I encourage you to participate in this repository if you have any resources, knowledge, energy or just time and motivation to help me and this community.
+We encourage you to participate in this repository if you have any resources, knowledge, energy or just time and motivation to help me and this community.
 
 * Create [issues](https://github.com/dotnet-social/community/issues) if you have detected problems, want to ask questions or suggest ideas
-* Use [mastodon](https://dotnet.social/home), mention me at [styx31@dotnet.social](https://dotnet.social/@styx31) or [hmhackmaster@boldcity.social](https://boldcity.social/@HMHackmaster).
+* Use [mastodon](https://dotnet.social/home), mention one admin, either [styx31@dotnet.social](https://dotnet.social/@styx31) or [hmhackmaster@boldcity.social](https://boldcity.social/@HMHackmaster).
+* If you want to be volunteer to help, for example for moderation, reach one of the admins.
 * Use discord to discuss in a less formal and more real-time way: https://discord.gg/Cn3HHqMyWK
-
-## Content
-
-We are looking for volunteers to help writing rules, discuss content, proof-reading, manage rules and bring more content to this repository and this organization.
-
-Even (and firstly) rewrite this readme to correct all grammar mistakes!
 
 ## Technical details
 
@@ -31,11 +28,11 @@ The OS disk is a Premium SSL LRS of 30GiB. An additional data disk of 256GiB Sta
 
 The resource group also contains a **storage account** (RA-GRS) used to backup all critical resources of the server daily.
 
-I am looking for any help or advice, more particularly if you have experience in linux and/or Azure VM and services (CDN, etc.).
+We are looking for any help or advice, more particularly if you have experience in linux and/or Azure VM and services (CDN, etc.).
 
 ## Financial details
 
-All these resources are billed under a single Azure subscription, a Visual Studio Enterprise Azure Credits Benefits that I (@tbolon) dedicate to this server.
+All these resources are billed under a single Azure subscription, a Visual Studio Enterprise Azure Credits Benefits that (@tbolon) dedicate to this server.
 The credits are of $130 per month and are almost entirely used by these resources.
 I paid the domain on my own name, on gandi.net, until the end of 2024 (for 90€).
 
